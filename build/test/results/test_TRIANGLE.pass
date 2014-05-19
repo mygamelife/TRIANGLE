@@ -1,0 +1,52 @@
+---
+:source:
+  :path: test
+  :file: test_TRIANGLE.c
+:successes:
+- :test: test_side1_is_4_side2_is_2_and_length_is_5
+  :line: 14
+  :message: ''
+- :test: test_side1_is_5_side2_is_5_and_length_is_8
+  :line: 21
+  :message: ''
+- :test: test_side1_is_2_side2_is_8_and_length_is_2
+  :line: 28
+  :message: ''
+- :test: test_side1_is_8_side2_is_12_and_length_is_12
+  :line: 35
+  :message: ''
+- :test: test_side1_is_8_side2_is_8_and_length_is_8
+  :line: 42
+  :message: ''
+- :test: test_side1_is_negative2_side2_is_4_and_length_is_8
+  :line: 50
+  :message: ''
+- :test: test_side1_is_negative2_side2_is_5_and_length_is_negative6
+  :line: 57
+  :message: ''
+- :test: test_side1_is_negative8_side2_is_negative8_and_length_is_negative8
+  :line: 64
+  :message: ''
+- :test: test_side1_is_10_side2_is_30_and_length_is_8
+  :line: 71
+  :message: ''
+- :test: test_side1_is_0_side2_is_0_and_length_is_8
+  :line: 78
+  :message: ''
+- :test: test_side1_is_0_side2_is_0_and_length_is_0
+  :line: 85
+  :message: ''
+- :test: test_side1_is_1_side2_is_1_and_length_is_7
+  :line: 92
+  :message: ''
+- :test: test_side1_is_7_side2_is_12_and_length_is_3
+  :line: 99
+  :message: ''
+:failures: []
+:ignores: []
+:counts:
+  :total: 13
+  :passed: 13
+  :failed: 0
+  :ignored: 0
+:stdout: []
